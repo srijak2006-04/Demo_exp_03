@@ -1,0 +1,5 @@
+DevOps is a set of practices, tools, and a cultural philosophy that combine software development (Dev) and IT operations (Ops) to shorten the system development life cycle and deliver high-quality software faster.
+Collaboration: Breaking down walls between teams so developers and operators share responsibility.
+Automation: Removing manual, repetitive steps in building, testing, and releasing code.
+Continuous Improvement: Using fast feedback loops to fix issues early and improve reliability.
+Infrastructure as Code (IaC): Managing and provisioning computer servers and networks through configuration files rather than physical setup.
